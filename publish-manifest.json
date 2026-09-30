@@ -1,0 +1,31 @@
+{
+  "description": "Only these static public website files are published.",
+  "files": [
+    ".nojekyll",
+    "README.md",
+    "favicon.svg",
+    "images/01.png",
+    "images/02.png",
+    "images/03.png",
+    "images/04.png",
+    "images/05.png",
+    "images/06.png",
+    "images/07.png",
+    "images/08.png",
+    "images/09.png",
+    "images/10.png",
+    "images/11.png",
+    "images/12.png",
+    "images/13.png",
+    "images/14.png",
+    "images/15.png",
+    "images/16.png",
+    "images/17.png",
+    "images/18.png",
+    "index.html",
+    "publish-manifest.json",
+    "robots.txt",
+    "sitemap.xml",
+    "styles.css"
+  ]
+}
